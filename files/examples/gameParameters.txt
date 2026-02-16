@@ -1,0 +1,18 @@
+***************
+Game parameters
+***************
+
+Number of games: 1
+Temporal increment: 0.0100
+Total time: 1.0000
+Number of rounds per game: 100
+Log-price increment: 0.1000
+Maximum log-price: 10.0000
+Size of log-price grid: 201
+Log-wealth increment: 0.1000
+Maximum log-wealth: 10.0000
+Size of log-wealth grid: 201
+Volatility: 1.0000
+Asymptotic mean: 0.0000
+Mean-reversion speed: 0.0100
+Interest rate: 0.0100
