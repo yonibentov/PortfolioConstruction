@@ -1,0 +1,1 @@
+I called this "strings" instead of "string" to avoid a potential conflict with the C-standard library file string.h.
