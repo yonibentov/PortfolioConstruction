@@ -1,0 +1,9 @@
+*********************
+Simulation parameters
+*********************
+ 
+Temporal increment (dt): 0.01
+Total time (T): 1
+Volatility (σ): 1
+Asymptotic mean (m): 0.31
+Mean-reversion speed (θ): 0.26
