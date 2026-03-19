@@ -1,2 +1,0 @@
-max number of coins: 100
-probability of heads: 0.75
