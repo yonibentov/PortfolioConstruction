@@ -1,0 +1,2 @@
+Max number of chips: 100
+Probability of heads: 0.75
